@@ -3,6 +3,7 @@
   "description": "Wallet address validator for Bitcoin and other Altcoins.",
   "keywords": [
     "bitcoin",
+	"bzlcoin",
     "litecoin",
 	"denarius",
     "dogecoin",
@@ -15,12 +16,12 @@
     "nodejs"
   ],
   "version": "0.1.0",
-  "author": "Carsen Klock <carsenk@gmail.com>",
-  "homepage": "https://github.com/carsenk/wallet-address-validator",
+  "author": "Estevão Bezerra <bzlcoin@bzlcoin.com.br>",
+  "homepage": "https://github.com/bzlcoin/wallet-address-validator",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/carsenk/wallet-address-validator.git"
+    "url": "https://github.com/bzlcoin/wallet-address-validator.git"
   },
   "main": "src/wallet_address_validator",
   "engines": {

@@ -1,7 +1,7 @@
 # wallet-address-validator
 Simple wallet address validator for validating Bitcoin and other altcoins addresses in **Node.js and browser**. 
 
-Updated 6/19/2017 - Added Denarius/DNR Validation
+Updated 20/12/2017 - Added Bzlcoin/BZL Validation
 
 Forked from [ryanralph/altcoin-address](https://github.com/ryanralph/altcoin-address).
 
@@ -46,6 +46,7 @@ bower install wallet-address-validator
 ### Supported crypto currencies
 
 * Bitcoin/BTC, `'bitcoin'` or `'BTC'`
+* Bzlcoin/BZL, `'bzlcoin'` or `'BZL'`
 * Litecoin/LTC, `'litecoin'` or `'LTC'`
 * Denarius/DNR, `'denarius'` or `'DNR'`
 * Peercoin/PPCoin/PPC, `'peercoin'` or `'PPC'`
