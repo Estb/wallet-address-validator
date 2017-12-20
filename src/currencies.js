@@ -5,6 +5,10 @@
             symbol: 'btc',
             addressTypes: {prod: ['00', '05'], testnet: ['6f', 'c4']}
         },{
+            name: 'bzlcoin',
+            symbol: 'bzl',
+            addressTypes: {prod: ['19', '55'], testnet: ['12', '74']}
+        },{
             name: 'litecoin',
             symbol: 'ltc',
             addressTypes: {prod: ['30', '05'], testnet: ['6f', 'c4']}
